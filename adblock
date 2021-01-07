@@ -1,2 +1,5 @@
 ! 2021-01-06 https://islamlab.com
 islamlab.com##.td-front-end-display-block.td-more-articles-box
+
+! 2021-01-06 https://www.thehindu.com/
+thehindu.com##+js(set, Adblock, false)
